@@ -6,10 +6,14 @@ sudo apt-get update
 
 eh instalar o git para poder clonar este repositorio.
 
-{code}
+<code>
 sudo apt-get install git
-{code}
+</code>
 
-Intalando o banco de dados nosql MongoDB ultima versao estavel
+**Intalando o banco de dados nosql MongoDB ultima versao estavel**
 
+Para instalar o mongo db execute o script install-mongodb-ubuntu.sh como administrador: 
 
+<code>
+sudo ./install-mongodb-ubuntu.sh
+</code>
