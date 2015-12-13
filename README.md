@@ -42,5 +42,12 @@ Execute o script install-meanjsorg.sh
 ./install-meanjsorg.sh
 </code>
 
+**Executando o meanjs**
 
+Navegue pelo terminal para o diretorio meanjs criado e digite o seguinte comando: 
 
+<code>
+gulp
+</code>
+
+Pronto vc agora pode acessar a url defaul to meanjs.org local no endereco: http://localhost:3000
