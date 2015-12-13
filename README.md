@@ -17,6 +17,11 @@ sudo apt-get install git
 git clone https://github.com/mmaia/meanjs_ptBR.git
 </code>
 
+Apos clonar o projeto navegue para dentro do diretorio do projeto(onde se encontram os scripts .sh) e digite o seguinte comando para dar permissao de execucao nos scripts baixados
+<code>
+chmod -x *.sh
+</code>
+
 **Intalando o banco de dados nosql MongoDB ultima versao estavel**
 
 Para instalar o mongo db execute o script install-mongodb-ubuntu.sh como administrador: 
