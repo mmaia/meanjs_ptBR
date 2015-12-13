@@ -4,7 +4,7 @@
 cd ~
 
 #download nodejs
-curl https://nodejs.org/dist/v0.12.9/node-v0.12.9-linux-x64.tar.gz
+curl -O https://nodejs.org/dist/v0.12.9/node-v0.12.9-linux-x64.tar.gz
 
 #uncompress and move nodejs to /opt
 tar -xvf node-v0.12.9-linux-x64.tar.gz
