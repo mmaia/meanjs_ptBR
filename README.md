@@ -21,7 +21,7 @@ git clone https://github.com/mmaia/meanjs_ptBR.git
 Apos clonar o projeto navegue para dentro do diretorio do projeto(onde se encontram os scripts .sh) e digite o seguinte comando para dar permissao de execucao nos scripts baixados
 
 <code>
-chmod -x *.sh
+chmod +x *.sh
 </code>
 
 **Intalando o banco de dados nosql MongoDB ultima versao estavel**
