@@ -13,11 +13,13 @@ sudo apt-get install git
 </code>
 
 **Clonando este repositorio.**
+
 <code>
 git clone https://github.com/mmaia/meanjs_ptBR.git
 </code>
 
 Apos clonar o projeto navegue para dentro do diretorio do projeto(onde se encontram os scripts .sh) e digite o seguinte comando para dar permissao de execucao nos scripts baixados
+
 <code>
 chmod -x *.sh
 </code>
@@ -36,6 +38,7 @@ ATENCAO: Todos os outros scripts abaixo devem ser instalados SEM UTILIZAR O sudo
 **Instalar Nodejs 0.12.9**
 
 Execute o script install-nodejs-0.12.9
+
 <code>
 ./install-nodejs-0.12.9.sh
 </code>
@@ -43,6 +46,7 @@ Execute o script install-nodejs-0.12.9
 **Instalar o meanjs.org**
 
 Execute o script install-meanjsorg.sh
+
 <code>
 ./install-meanjsorg.sh
 </code>
