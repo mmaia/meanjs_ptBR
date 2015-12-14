@@ -56,6 +56,12 @@ Execute o script install-meanjsorg.sh
 Navegue pelo terminal para o diretorio meanjs criado e digite o seguinte comando: 
 
 <code>
+source ~/.bashrc
+</code>
+
+O comando acima eh para garantir que a configuracao do nodejs foi carregada no terminal,  agora basta executar o projeto(dentro do diretorio meanjs):
+
+<code>
 gulp
 </code>
 
